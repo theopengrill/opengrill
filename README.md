@@ -14,3 +14,7 @@ If you have a Feature / Unit request just open a Issue and I will see what I can
 If you intend to use this to build outdoor kitchen set then I would recommend using Medite Tricoya 
 this has a 50 year guarantee for outdoor use. For hinges would recommend something like
 Blums BCOR https://www.blum.com/su/en/products/news-specials/hinges-with-bcor-surface-protection/overview/
+
+## Jigs
+
+The jigs located in the Jigs folder are for cutting the required holes for the dowels, cam dowels, shelf holes and the draw slide holes.
